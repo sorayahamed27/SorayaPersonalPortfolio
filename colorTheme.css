@@ -1,0 +1,28 @@
+/* Light Side */
+:root, [data-theme="default"] {
+    --color-1: rgba(255,255,255,1);
+    --color-2: rgba(134,206,83,1);
+    --color-3: rgba(71,158,192,1);
+    --color-4: rgb(190, 26, 116);
+    --color-5: rgba(12,27,67,1);
+    --color-bg-footer: rgb(153, 43, 98);
+    --color-bg-header: rgba(172, 60, 103, 0.9);
+    --color-bg-extra: rgb(240, 182, 218);
+    --color-bg-contact: rgb(241, 219, 230);
+    --color-bg-main: rgba(255, 255, 255, 0.2);
+
+}
+
+/* Dark Side */
+[data-theme="dark"] {
+    --color-1: rgba(10,15,26,1);
+    --color-2: rgba(63,91,44,1);
+    --color-3: rgba(43,69,80,1);
+    --color-4: rgba(30,55,123,1);
+    --color-5: rgba(255,255,255,1);
+    --color-bg-footer: rgb(88, 55, 84);
+    --color-bg-header: rgba(47, 46, 51, 0.9);
+    --color-bg-extra: rgb(60, 74, 78);
+    --color-bg-contact: rgb(109, 90, 90);
+    --color-bg-main: rgba(110, 75, 70, 0.801);
+}
